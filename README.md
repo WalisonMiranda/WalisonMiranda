@@ -40,9 +40,14 @@
 ##
 
 <br>
-<div align="center">
+<div align="center>
   <a href="https://www.linkedin.com/in/walison-miranda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
   <a href="https://walison.vercel.app/" target="_blank">Portfólio</a>
+</div>
+<br>
+
+<div align="center>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=walisonmiranda&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
